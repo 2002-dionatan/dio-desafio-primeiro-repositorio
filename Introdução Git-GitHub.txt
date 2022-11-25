@@ -1,0 +1,10 @@
+Introdução Git e GitHub
+
+- Link para download: 
+https://git-scm.com/downloads
+
+- Documentação:
+https://git-scm.com/docs
+
+- Dez comandos essenciais para trabalhar com o Git
+https://www.freecodecamp.org/portuguese/news/10-comandos-do-git-que-todo-desenvolvedor-deveria-conhecer/ 
